@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337426025643",
+    "project_id": "feedo-9a0f4",
+    "storage_bucket": "feedo-9a0f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337426025643:android:7084deeb4751032f21bbee",
+        "android_client_info": {
+          "package_name": "com.example.feedo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkpsgPfKbV4LHimiALJBZPn1b93dng4Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
